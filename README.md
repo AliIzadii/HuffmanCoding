@@ -9,4 +9,5 @@ This program have the following capabilities:
 5. Generate CodeWord for each symbol using the Hoffman Tree (CodeWord table).
 6. Read the CodeWord table from the zip file and the encoded form of the symbols, and then rebuild the original file.
 7. Show Huffman Tree.<br/>
+8. [Link to Google](https://www.google.com)
 Also See Huffman-Tree.pdf
