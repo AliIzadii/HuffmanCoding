@@ -1,6 +1,6 @@
 # Huffman-Coding
 Text File Compression using Huffman Tree (using awt and swing)<br/>
-In this project we are going to use a special tree data structure called the Hoffman Tree to compress the text file.
+In this project we are going to use a special tree data structure called the Hoffman Tree to compress the text file.<br/>
 This program have the following capabilities:
 1. Receive a text file as input (receive the file address and process it) and convert it to a zip file.
 2. Display the code table in the output.
